@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
 
-class ProviderWarehouseComparatorTest {
+class SortProductOnStackTest {
     private static List<ProductOnStack> sortingByProvider;
     private static List<ProductOnStack> sortingByProviderAndProduct;
 
